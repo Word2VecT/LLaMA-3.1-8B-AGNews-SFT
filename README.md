@@ -1,5 +1,7 @@
 # LLaMA-3.1-8B-AGNews-SFT
 
+模型权重 [🤗Hugging Face](https://huggingface.co/Word2Li/LLaMA-3.1-8B-AGNews-SFT)
+
 ## 概要
 
 - Base Model：[LLaMA 3.1 8B](https://ai.meta.com/blog/meta-llama-3-1)
