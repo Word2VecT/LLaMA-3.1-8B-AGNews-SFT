@@ -1,0 +1,8 @@
+{
+    "ag_news_train": {
+        "file_name": "ag_news_train.json"
+    },
+    "ag_news_test": {
+        "file_name": "ag_news_test.json"
+    }
+}
